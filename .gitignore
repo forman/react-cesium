@@ -1,0 +1,7 @@
+.idea/
+README.md
+node_modules/
+package.json
+public/
+src/
+webpack.config.js
