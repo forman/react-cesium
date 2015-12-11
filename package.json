@@ -9,7 +9,7 @@
   "author": "Charlie Koster",
   "license": "ISC",
   "dependencies": {
-    "cesium": "AnalyticalGraphicsInc/cesium#1.14",
+    "cesium": "1.16.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2"
   },
