@@ -1,5 +1,3 @@
-import Patch from './patch.js';
-
 export default {
     calculatePatches(currentState, nextState) {
         let patches = [];
