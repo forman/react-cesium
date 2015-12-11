@@ -38,7 +38,7 @@ class CesiumComponent extends React.Component {
                 show: city.visible,
                 position: new Cartesian3.fromDegrees(city.longitude, city.latitude),
                 billboard: {
-                    image: 'http://localhost:3001/images/pin.svg',
+                    image: require('../../public/images/pin.svg'),
                     width: 30,
                     height: 30
                 }
